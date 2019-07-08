@@ -13,13 +13,13 @@ Open the terminal and copy and run the 2 lines.
   `pip install Xlib` 
 # Usage
 
-### 1. Download the zip file.
-### 2. Extract the zip file.
-### 3. Enter the keywords you want as triggers in the list.txt file.
-### 4. Go inside the folder and right click anywhere.
-### 5. Click on 'open terminal here'.
-### 6. copy and run the following line : `python stopme.py` 
-### 7. Minimize the terminal and you should see a random image pop up when you type in any of keywords.
+#### 1. Download the zip file.
+#### 2. Extract the zip file.
+#### 3. Enter the keywords you want as triggers in the list.txt file.
+#### 4. Go inside the folder and right click anywhere.
+#### 5. Click on 'open terminal here'.
+#### 6. copy and run the following line : `python stopme.py` 
+#### 7. Minimize the terminal and you should see a random image pop up when you type in any of keywords.
 
 
 
