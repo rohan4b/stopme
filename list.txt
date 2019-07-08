@@ -1,0 +1,6 @@
+add
+a
+word
+in
+each
+line
