@@ -22,5 +22,10 @@ Open the terminal and copy and run the 2 lines.
 #### 6. copy and run the following line : `python stopme.py` 
 #### 7. Minimize the terminal and you should see a random image pop up when you type in any of keywords.
 
+# Tips
+
+#### 1. Add as many images as you want to the images folder.
+#### 2. Add the program to list of startup programs as shown below.
+![alt text](https://github.com/rohan4b/stopme/blob/master/screenshots/start.png "Automatically run at startup")
 
 
