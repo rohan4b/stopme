@@ -6,6 +6,7 @@ of their promises to break habits such as procastination.
 1. PILLOW
 
   `pip install pillow` 
+  
 2. Xlib
 
   `pip install Xlib` 
