@@ -4,3 +4,4 @@ the list, the program selects a random image from the images folder and opens it
 of their promises to break habits such as procastination.   
 # Installation
 1. PILLOW
+    `pip install PILLOW'
