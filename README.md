@@ -3,11 +3,11 @@ Stopme is simple python script which takes in a set of words. It runs in the bac
 the list, the program selects a random image from the images folder and opens it. I created it so people can get timely reminders
 of their promises to break habits such as procastination.   
 # Dependencies
-1. PILLOW
+###1. PILLOW
 
   `pip install pillow` 
   
-2. Xlib
+###2. Xlib
 
   `pip install Xlib` 
   
